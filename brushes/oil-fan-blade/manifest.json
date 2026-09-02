@@ -1,0 +1,30 @@
+{
+  "azphalt": "0.1",
+  "id": "com.hereliesaz.azphalt.brush-oil-fan-blade",
+  "name": "Fan Blade",
+  "version": "1.0.0",
+  "kind": "asset",
+  "license": "CC-BY-4.0",
+  "compat": ">=0.1",
+  "description": "A fan-shaped brush of radiating tines, for blending and texture streaks.",
+  "author": "HereLiesAz",
+  "targetApps": [
+    "com.hereliesaz.graffux"
+  ],
+  "assets": [
+    {
+      "type": "brush",
+      "path": "assets/tip.png",
+      "tags": [
+        "oil",
+        "fan",
+        "streak"
+      ],
+      "params": {
+        "spacing": 0.1,
+        "roundness": 1,
+        "flowByPressure": false
+      }
+    }
+  ]
+}

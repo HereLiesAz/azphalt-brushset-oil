@@ -1,0 +1,30 @@
+{
+  "azphalt": "0.1",
+  "id": "com.hereliesaz.azphalt.brush-oil-bristle-drybrush",
+  "name": "Bristle Drybrush",
+  "version": "1.0.0",
+  "kind": "asset",
+  "license": "CC0-1.0",
+  "compat": ">=0.1",
+  "description": "A rough, broken-texture round brush for dry-brush drag effects.",
+  "author": "HereLiesAz",
+  "targetApps": [
+    "com.hereliesaz.graffux"
+  ],
+  "assets": [
+    {
+      "type": "brush",
+      "path": "assets/tip.png",
+      "tags": [
+        "oil",
+        "dry-brush",
+        "bristle"
+      ],
+      "params": {
+        "spacing": 0.05,
+        "roundness": 1,
+        "flowByPressure": true
+      }
+    }
+  ]
+}

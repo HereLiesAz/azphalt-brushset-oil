@@ -1,0 +1,9 @@
+{
+  "name": "@azphalt/azphalt-brush-oil",
+  "version": "1.0.0",
+  "description": "4 azphalt brush packages: Filbert, Palette Knife, Fan Blade, Bristle Drybrush.",
+  "private": false,
+  "scripts": {
+    "build": "node build.js"
+  }
+}

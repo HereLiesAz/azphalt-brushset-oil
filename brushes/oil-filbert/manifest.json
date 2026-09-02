@@ -1,0 +1,31 @@
+{
+  "azphalt": "0.1",
+  "id": "com.hereliesaz.azphalt.brush-oil-filbert",
+  "name": "Filbert",
+  "version": "1.0.0",
+  "kind": "asset",
+  "license": "CC-BY-4.0",
+  "compat": ">=0.1",
+  "description": "A soft-edged oval oil brush with subtle bristle streaks. Rotate with angle.",
+  "author": "HereLiesAz",
+  "targetApps": [
+    "com.hereliesaz.graffux"
+  ],
+  "assets": [
+    {
+      "type": "brush",
+      "path": "assets/tip.png",
+      "tags": [
+        "oil",
+        "filbert",
+        "soft-edge"
+      ],
+      "params": {
+        "spacing": 0.06,
+        "angle": 0,
+        "roundness": 0.68,
+        "flowByPressure": true
+      }
+    }
+  ]
+}
